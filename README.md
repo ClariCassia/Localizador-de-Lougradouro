@@ -48,4 +48,4 @@ Neste projeto pude aprimorar meus conhecimentos em integração com uma API e co
 
 ## Acesso a página
 
-Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Gerador-de-conselhos/)
+Para ver o projeto pronto [clique aqui ](https://claricassia.github.io/Localizador-de-Lougradouro/)
