@@ -20,7 +20,7 @@ Esse projeto apresenta  uma solução simplificada e eficiente para a busca de e
 
 <br>
 
- <img src="src/images/desktop.gif.gif" alt="gif tela desktop">
+ <img src="src/images/localizador.gif.gif" alt="gif-desktop">
 <br>
 <br>
 
@@ -28,7 +28,7 @@ Esse projeto apresenta  uma solução simplificada e eficiente para a busca de e
 
 <br>
 
- <img src="src/images/mobile.gif.gif" alt="gif tela mobile">
+<img src="src/images/localizador-mobile.gif" alt="gif-mobile">
 <br>
 <br>
 
